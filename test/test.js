@@ -19,6 +19,17 @@ describe('checkout()', () => {
     assert.equal(checkout('C'), 20)
     assert.equal(checkout('D'), 10)
   })
+
+  it('should price multiple items together', () => {
+    assert.equal(checkout('ABCD'), 110)
+  })
+
+  it('should apply discounts', () => {
+    assert.equal(checkout('AAA'), 130)
+    assert.equal(checkout('BB'), 37)
+    assert.equal(checkout('DABA'), 140)
+    assert.equal(checkout('BBBB'), 74)
+  })
 })
 
 // | Item  | Price | Offer     |
