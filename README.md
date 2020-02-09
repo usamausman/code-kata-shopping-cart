@@ -24,3 +24,4 @@ $ node main.js DABA
 ## Notes
 
 * Ignores any characters that do not have an associated cost
+* All discounts are applied after counting
