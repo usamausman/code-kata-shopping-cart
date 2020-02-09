@@ -28,4 +28,4 @@ $ node main.js DABA
 
 To implement this kata, I chose to use Node.js as it is the development environment I am most familiar with. I used Test-Driven Development to ensure that my code was working as expected, and which allowed me to experiment with different calculation methods.
 
-The code expects the entire input to be available at once, and for it to be able to fit in memory. Hence, this code would not be able to support an input stream, or extremely large orders. To calculate the price, the items are first counted, and then priced according to any discount rules. In this way, we can also count the number of discounts applied, which can, for example, shown on a supermarket receipt. 
+The code expects the entire input to be available at once, and for it to be able to fit in memory. Hence, this code would not be able to support an input stream, or extremely large orders. To calculate the price, the items are first counted, and then priced according to any discount rules. In this way, we can also count the number of discounts applied, which can be used, for example, for display on a supermarket receipt. 
