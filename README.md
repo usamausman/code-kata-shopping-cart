@@ -15,3 +15,7 @@
 3. Add code to handle basic pricing
 4. Read and price multiple items at once
 5. Apply discounts after counting
+
+## Notes
+
+* Ignores any characters that do not have an associated cost
