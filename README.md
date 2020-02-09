@@ -14,3 +14,4 @@
 2. Set up Mocha and folder structure for testing and running
 3. Add code to handle basic pricing
 4. Read and price multiple items at once
+5. Apply discounts after counting
