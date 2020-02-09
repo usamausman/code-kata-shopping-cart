@@ -4,9 +4,14 @@
 
 **Installation:** `npm install`
 
-**Moving:** `npm test`
+**Testing:** `npm test`
 
 **CLI:** `node main.js [input]`
+
+```terminal
+$ node main.js DABA
+140
+```
 
 ## Process
 
