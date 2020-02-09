@@ -1,0 +1,23 @@
+{
+  "name": "code-kata-shopping-cart",
+  "version": "1.0.0",
+  "description": "Shopping Cart Code Kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usamausman/code-kata-shopping-cart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usamausman/code-kata-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/usamausman/code-kata-shopping-cart#readme",
+  "dependencies": {
+    "mocha": "^7.0.1"
+  }
+}

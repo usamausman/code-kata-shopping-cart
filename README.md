@@ -1,13 +1,5 @@
 # CODE-KATA-Shopping-Cart
 
-## Workflow
-- Treat this like a real assignment, but only spend up to two hours on it - it doesn't matter how far you get
-- Fork the project to your personal Github account (click on the fork button in the top right corner)
-- Clone the forked version of this repository
-- Include a `README`
-- Push your work up to your fork
-- Submit a link to your forked repository
-
 ## Instructions
 You should implement a supermarket checkout which:
 - always accepts a string of items and gives back the total price
@@ -25,3 +17,7 @@ Use the following pricing information:
 For example:
 - `'DABA'` gives `140`
 - `'BBBB'` gives `74`
+
+## Process
+
+1. Set up repository for Node.js development
